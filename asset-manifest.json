@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/McLarwnce/vidmax/static/css/main.b04cc54d.css",
+    "main.js": "/McLarwnce/vidmax/static/js/main.930935ba.js",
+    "index.html": "/McLarwnce/vidmax/index.html",
+    "main.b04cc54d.css.map": "/McLarwnce/vidmax/static/css/main.b04cc54d.css.map",
+    "main.930935ba.js.map": "/McLarwnce/vidmax/static/js/main.930935ba.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b04cc54d.css",
+    "static/js/main.930935ba.js"
+  ]
+}
