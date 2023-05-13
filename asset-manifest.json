@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/McLarwnce/vidmax/static/css/main.b04cc54d.css",
-    "main.js": "/McLarwnce/vidmax/static/js/main.69184f61.js",
-    "index.html": "/McLarwnce/vidmax/index.html",
-    "main.b04cc54d.css.map": "/McLarwnce/vidmax/static/css/main.b04cc54d.css.map",
-    "main.69184f61.js.map": "/McLarwnce/vidmax/static/js/main.69184f61.js.map"
+    "main.css": "/vidmax/static/css/main.b04cc54d.css",
+    "main.js": "/vidmax/static/js/main.07ce79d4.js",
+    "index.html": "/vidmax/index.html",
+    "main.b04cc54d.css.map": "/vidmax/static/css/main.b04cc54d.css.map",
+    "main.07ce79d4.js.map": "/vidmax/static/js/main.07ce79d4.js.map"
   },
   "entrypoints": [
     "static/css/main.b04cc54d.css",
-    "static/js/main.69184f61.js"
+    "static/js/main.07ce79d4.js"
   ]
 }
